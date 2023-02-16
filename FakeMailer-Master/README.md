@@ -3,13 +3,13 @@
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/PHP-7.2.30-green.svg">
   </a>
-  <a href="https://github.com/PushpenderIndia/technowhorse/blob/master/LICENSE">
+  <a href="https://github.com/thegreatpayload/License/blob/main/README.md.txt">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
-  <a href="https://github.com/PushpenderIndia/technowhorse/releases">
+  <a href="https://github.com/thegreatpayload">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
-    <a href="https://github.com/PushpenderIndia/technowhorse">
+    <a href="https://github.com/thegreatpayload">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
 </p>
@@ -34,7 +34,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 ## Installation & Usage
 ```bash
 # Download OR Clone this repository
-$ git clone https://github.com/PushpenderIndia/fakemailer.git
+$ git clone https://github.com/thegreatpayload/Fakemailer.git
 
 # Upload `index.html` & `mailer.php` To Your C-Panel (Hosting)
 
